@@ -24,8 +24,8 @@ for temp = 1 : N
     Angle_values(1,temp) = 0;
   else
     Angle_values(1,temp) = arg(DFT_Test_Signal(temp));
-  endif
-endfor
+  end
+end
 
 figure 01
 subplot(2,1,1);
