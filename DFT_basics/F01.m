@@ -23,7 +23,7 @@ for temp = 1 : N
   if (Magnitude_values(1,temp) < 1)
     Angle_values(1,temp) = 0;
   else
-    Angle_values(1,temp) = arg(DFT_Test_Signal(temp));;
+    Angle_values(1,temp) = arg(DFT_Test_Signal(temp));
   endif
 endfor
 
