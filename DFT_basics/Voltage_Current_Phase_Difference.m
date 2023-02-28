@@ -1,6 +1,6 @@
 clear all;
 %The Frequency of Interest Is 1200 & 2200 Hz
-Frequency = 47.5;            %Frequency In Hz
+Frequency = 50;            %Frequency In Hz
 Phase_of_Voltage = 90;      %Phase In Degree
 Phase_of_Current = 45;     %Phase In Degree
 
